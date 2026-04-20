@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-1-c-cha-gisu-sng-li",
-      "name": "一、耶稣复活",
+      "name": "1. Uskrsnuće Isusovo od Mrtvih",
       "levels": [
         {
           "tileSize": 256,
@@ -44,14 +44,14 @@ var APP_DATA = {
         {
           "yaw": 0.16823973861483843,
           "pitch": -0.6735388679733862,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">耶稣复活</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">安息日既过，一周的第一日，天快亮时，玛利亚玛达肋纳和另外一个玛利亚来看坟墓。忽然发生了大地震，因为上主的天使从天降来，上前把石硕滚开，坐在上面。他的容貌好像闪电，他的衣服洁白如雪。看守的人由于怕他，吓得打颤，变得好像死人一样。天使对妇女说道：「你们不要害怕！我知道你们寻找被钉死的耶稣。他不在这里，因为他已经照他所说的复活了。你们来看看那安放过他的地方；并且快去对他的门徒说：他已经由死者中复活了。看！他在你们以先往加里肋亚去，在那里你们要看见他。看！我已经告诉了你们。」她们赶快离开坟墓，又恐惧又异常喜乐，跑去报告他的门徒。</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">忽然，耶稣迎上她们说：「愿你们平安！」她们遂上前抱住耶稣的脚，朝拜了他。耶稣对她们说：「不要害怕！你们去，报告我的兄弟，叫他们往加里肋亚去，他们要在那里看见我。」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(玛窦福音 28:1–10)</div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Uskrsnuće Isusovo od Mrtvih</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Po suboti, u osvit prvoga dana u tjednu, dođe Marija Magdalena i druga Marija pogledati grob. I gle, nastade žestok potres jer anđeo Gospodnji siđe s neba, pristupi, otkotrlja kamen i sjede na nj. Lice mu bijaše kao munja, a odjeća bijela kao snijeg. Od straha pred njim zadrhtaše stražari i obamriješe. A anđeo progovori ženama: »Vi se ne bojte! Ta znam: Isusa Raspetoga tražite! Nije ovdje! Uskrsnu kako reče. Hajde, vidite mjesto gdje je ležao pa pođite žurno i javite njegovim učenicima da uskrsnu od mrtvih. I evo, ide pred vama u Galileju. Ondje ćete ga vidjeti. Evo, rekoh vam.« One otiđoše žurno s groba te sa strahom i velikom radošću otrčaše javiti njegovim učenicima.</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Kad eto im Isusa u susret! Reče im: »Zdravo!« One polete k njemu, obujme mu noge i ničice mu se poklone. Tada im Isus reče: »Ne bojte se! Idite, javite mojoj braći da pođu u Galileju! Ondje će me vidjeti!«<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Matej 28:1–10)</div>"
         }
       ]
     },
     {
       "id": "1-2-c-cha-gisu-ln-tri",
-      "name": "二、耶稣升天",
+      "name": "2. Uzašašće Isusovo na Nebo",
       "levels": [
         {
           "tileSize": 256,
@@ -99,14 +99,14 @@ var APP_DATA = {
         {
           "yaw": 0.7809236815983347,
           "pitch": -0.5434597421898903,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">耶稣升天</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">德敖斐罗！我在第一部书中，已论及耶稣所行所教的一切，直到他藉圣神嘱咐了所选的宗徒之后，被接去的那一天为止；他受难以后，用了许多凭据，向他们显明自己还活着，四十天之久显现给他们，讲论天主国的事。耶稣与他们一起进食时，吩咐他们不要离开耶路撒冷，但要等候父的恩许，即你们听我所说过的：「若翰固然以水施了洗，但不多几天以后，你们要因圣神受洗。」</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">他们聚集的时候，就问耶稣说：「主，是此时要给以色列复兴国家吗？」他回答说：「父以自己的权柄所定的时候和日期，不是你们应当知道的；但当圣神降临于你们身上时，你们将充满圣神的德能，要在耶路撒冷及全犹太和撒玛黎雅，并直到地极，为我作证人。」</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">耶稣说完这些话，就在他们观望中，被举上升，有块云彩接了他去，离开他们的眼界。他们向天注视着他上升的时候，忽有两个穿白衣的人站在他们前，向他们说：「加里肋亚人！你们为什么站着望天呢﹖这位离开你们，被接到天上去的耶稣，你们看见他怎样升了天，也要怎样降来。」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(宗徒大事录 1:1-11)</div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Uzašašće Isusovo na Nebo</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Prvu sam knjigu, Teofile, sastavio o svemu što je Isus činio i učio do dana kad je uznesen pošto je dao upute apostolima koje je izabrao po Duhu Svetome. Njima je poslije svoje muke mnogim dokazima pokazao da je živ, četrdeset im se dana ukazivao i govorio o kraljevstvu Božjem. I dok je jednom s njima blagovao, zapovjedi im da ne napuštaju Jeruzalema, nego neka čekaju Obećanje Očevo »koje čuste od mene: Ivan je krstio vodom, a vi ćete naskoro nakon ovih dana biti kršteni Duhom Svetim«.</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Nato ga sabrani upitaše: »Gospodine, hoćeš li u ovo vrijeme Izraelu opet uspostaviti kraljevstvo?« On im odgovori: »Nije vaše znati vremena i zgode koje je Otac podredio svojoj vlasti. Nego primit ćete snagu Duha Svetoga koji će sići na vas i bit ćete mi svjedoci u Jeruzalemu, po svoj Judeji i Samariji i sve do kraja zemlje.«</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Kada to reče, bi uzdignut njima naočigled i oblak ga ote njihovim očima. I dok su netremice gledali kako on odlazi na nebo, gle, dva čovjeka stadoše kraj njih u bijeloj odjeći i rekoše im: »Galilejci, što stojite i gledate u nebo? Ovaj Isus koji je od vas uznesen na nebo isto će tako doći kao što ste vidjeli da odlazi na nebo.«<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Djela Apostolska 1:1–11)</div>"
         }
       ]
     },
     {
       "id": "2-3-c-cha-thnh-thn-hin-xung",
-      "name": "三、圣神降临",
+      "name": "3. Silazak Duha Svetoga",
       "levels": [
         {
           "tileSize": 256,
@@ -154,14 +154,14 @@ var APP_DATA = {
         {
           "yaw": -0.11496180811354506,
           "pitch": -0.37224441421833276,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">圣神降临</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">五旬节日一到，众人都聚集一处。忽然，从天上来了一阵响声，好像暴风刮来，充满了他们所在的全座房屋。有些散开好像火的舌头，停留在他们每人头上，众人都充满了圣神，照圣神赐给他们的话，说起外方话来。</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">那时，居住在耶路撒冷的，有从天下各国来的虔诚的犹太人。这声音一响，就聚来了许多人，都仓皇失措，因为人人都听见他们说自己的方言。他们惊讶奇怪地说：「看，这些说话的不都是加里肋亚人吗？怎么我们每人听见他们说我们出生地的方言呢？我们中有帕提雅人、玛待人、厄蓝人和居住在美索不达米亚、犹太及卡帕多细雅、本都并亚细亚、夫黎基雅和旁非里雅、埃及并靠近基勒乃的利比亚一带的人，以及侨居的罗马人、犹太人和归依犹太教的人、克里特人和阿剌伯人，怎么我们都听见他们用我们的话，讲论天主的奇事呢？」众人都惊讶犹豫，彼此说：「这是什么事？」另有些人却讥笑说：「他们喝醉了酒！」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(宗徒大事录 2:1-13)</div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Silazak Duha Svetoga</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Kad je napokon došao dan Pedesetnice, svi su bili zajedno na istome mjestu. I eto iznenada šuma s neba, kao kad se digne silan vjetar. Ispuni svu kuću u kojoj su bili. I pokažu im se kao neki ognjeni razdijeljeni jezici te siđe po jedan na svakoga od njih. Svi se napuniše Duha Svetoga i počeše govoriti drugim jezicima, kako im već Duh davaše zboriti.</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">A u Jeruzalemu su boravili Židovi, ljudi pobožni iz svakog naroda pod nebom. Pa kad nasta ona huka, strča se mnoštvo i smètê jer ih je svatko čuo govoriti svojim jezikom. Svi su bili izvan sebe i divili se govoreći: »Gle! Nisu li svi ovi što govore Galilejci? Pa kako to da ih svatko od nas čuje na svojem materinskom jeziku? Parti, Međani, Elamljani, žitelji Mezopotamije, Judeje i Kapadocije, Ponta i Azije, Frigije i Pamfilije, Egipta i krajeva libijskih oko Cirene, pridošlice Rimljani, Židovi i sljedbenici, Krećani i Arapi – svi ih mi čujemo gdje našim jezicima razglašuju veličanstvena djela Božja.« Svi su izvan sebe zbunjeno jedan drugog pitali: »Što bi to moglo biti?« Drugi su pak, podrugujući se, govorili: »Slatkog su se vina ponapili!«<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Djela Apostolska 2:1–13)</div>"
         }
       ]
     },
     {
       "id": "3-4-c-cha-tri-cho-c-b-ln-tri",
-      "name": "四、圣母蒙召升天",
+      "name": "4. Uznesenje Marijino",
       "levels": [
         {
           "tileSize": 256,
@@ -209,8 +209,8 @@ var APP_DATA = {
         {
           "yaw": 0.2414294338391887,
           "pitch": -0.5338737219185532,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">圣母蒙召升天</span><o:p></o:p></p>",
-          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">玛利亚遂说：「我的灵魂颂扬上主，我的心神欢跃于天主，我的救主，</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">因为他垂顾了他婢女的卑微，今后万世万代都要称我有福；</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">因全能者在我身上行了大事，他的名字是圣的，</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">他的仁慈世世代代于无穷世，赐与敬畏他的人。</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">他伸出了手臂施展大能，驱散那些心高气傲的人。</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">他从高座上推下权势者，却举扬了卑微贫困的人。</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">他曾使饥饿者饱飨美物，反使那富有者空手而去。</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">他曾回忆起自己的仁慈，扶助了他的仆人以色列，正如他向我们的祖先所说过的恩许，施恩于亚巴郎和他的子孙，直到永远。」<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(路加福音 1:46-55)</div>"
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Uznesenje Marijino</span><o:p></o:p></p>",
+          "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Tada Marija reče: <span style=\"font-style: italic;\">»Veliča duša moja Gospodina, klikće</span> duh moj u Bogu, <span style=\"font-style: italic;\">mome Spasitelju,</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">što <span style=\"font-style: italic;\">pogleda na neznatnost službenice</span> svoje: odsad će me, evo, svi naraštaji <span style=\"font-style: italic;\">zvati blaženom.</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Jer <span style=\"font-style: italic;\">velika</span> mi <span style=\"font-style: italic;\">djela učini</span> Svesilni, sveto je ime njegovo!</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Od koljena do koljena <span style=\"font-style: italic;\">dobrota</span> je njegova nad <span style=\"font-style: italic;\">onima</span> što se njega boje.</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\"><span style=\"font-style: italic;\">Iskaza snagu mišice svoje, rasprši oholice</span> umišljene.</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\"><span style=\"font-style: italic;\">Silne zbaci s prijestolja, a uzvisi neznatne.</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\"><span style=\"font-style: italic;\">Gladne napuni dobrima,</span> a bogate otpusti prazne.</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Prihvati <span style=\"font-style: italic;\">Izraela, slugu svoga,</span> kako obeća ocima našim: <span style=\"font-style: italic;\">spomenuti se dobrote svoje prema Abrahamu i potomstvu njegovudovijeka.«<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Luka 1:46–55)</div>"
         }
       ]
     },
